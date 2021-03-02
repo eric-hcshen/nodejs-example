@@ -1,0 +1,65 @@
+1. Define feature and epics
+	Use your backlogs to plan your project and to:
+Manage a portfolio of features that are supported by different development and management teams
+Group items into a release train
+Minimize size variability of your deliverables by breaking down a large feature into smaller backlog items
+<Give operation definition>
+The epics and features that you create should reflect your business focus.
+As user stories or product backlog items roll up into features, and features roll up into epics—you'll want to name your features and epics with that in mind.
+A feature typically represents a shippable component of software. An epic represents a business initiative to be accomplished.
+
+Epic –> Months
+
+Feature —> Weeks
+
+User Story/PBI —>Days
+
+
+
+https://mohamedradwan.com/2017/12/05/requirements-epic-feature-user-story-task-size-and-estimation-in-agile-and-scrum/
+
+I am referring to delivering a fully working piece of product or service. This means that this item has been tested and it meets all the requirements for deployment to productions.
+
+https://mohamedradwan.com/2017/11/30/key-tips-for-maintaining-good-product-backlog-in-agile-and-scrum/
+
+https://ithelp.ithome.com.tw/articles/10225503
+
+https://leccajavier.medium.com/domain-driven-design-and-unit-test-in-node-js-2bf48e80a1fa
+
+
+//node.js api
+https://blog.codeminer42.com/nodejs-and-good-practices-354e7d763626/
+https://github.com/talyssonoc/node-api-boilerplate
+https://github.com/joshuaalpuerto/node-ddd-boilerplate
+
+
+//clean code architecture
+https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html
+
+//DDD/Typescript
+https://khalilstemmler.com/articles/typescript-domain-driven-design/ddd-vs-crud-design/
+
+
+//nestjs DDD
+https://github.com/Sairyss/domain-driven-hexagon
+
+//nodjs nest cors DDD
+https://github.com/qas/examples-nodejs-cqrs-es-swagger
+https://medium.com/@qasimsoomro/building-microservices-using-node-js-with-ddd-cqrs-and-event-sourcing-part-1-of-2-52e0dc3d81df
+
+
+//Nest.js
+https://dev.to/bendix/applying-domain-driven-design-principles-to-a-nest-js-project-5f7b
+
+https://github.com/qas/examples-nodejs-cqrs-es-swagger
+
+//better sqlite 3
+https://github.com/JoshuaWise/better-sqlite3/blob/master/docs/api.md
+
+//typeORM sqlite
+https://www.techiediaries.com/nestjs-tutorial-rest-api-crud/
+
+//sqlite offline
+https://flows.nodered.org/node/node-red-node-sqlite
+https://www.npmjs.com/package/better-sqlite3
+https://www.npmjs.com/package/@pencroff/typeorm-better-sqlite3
